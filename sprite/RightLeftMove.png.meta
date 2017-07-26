@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: c51640176954f4f4b9fda870bf77934b
-timeCreated: 1501037484
+timeCreated: 1501040404
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -91,10 +91,10 @@ TextureImporter:
       name: RightLeftMove_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 8
-        width: 139
-        height: 116
+        x: 15
+        y: 0
+        width: 140
+        height: 131
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -105,10 +105,10 @@ TextureImporter:
       name: RightLeftMove_1
       rect:
         serializedVersion: 2
-        x: 178
-        y: 11
+        x: 177
+        y: 0
         width: 140
-        height: 113
+        height: 131
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,10 +119,10 @@ TextureImporter:
       name: RightLeftMove_2
       rect:
         serializedVersion: 2
-        x: 342
-        y: 11
+        x: 341
+        y: 0
         width: 142
-        height: 113
+        height: 131
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,10 +133,10 @@ TextureImporter:
       name: RightLeftMove_3
       rect:
         serializedVersion: 2
-        x: 514
-        y: 12
+        x: 513
+        y: 0
         width: 140
-        height: 112
+        height: 131
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,10 +147,10 @@ TextureImporter:
       name: RightLeftMove_4
       rect:
         serializedVersion: 2
-        x: 668
-        y: 12
+        x: 667
+        y: 0
         width: 140
-        height: 112
+        height: 131
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
